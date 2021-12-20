@@ -1,0 +1,26 @@
+
+item {
+  id: 1
+  name: 'Botella'
+}
+
+item {
+  id: 2
+  name: 'Metal'
+}
+item {
+  id: 3
+  name: 'Carton'
+}
+item {
+  id: 4
+  name: 'Organicos'
+}
+item {
+  id: 5
+  name: 'Papel'
+}
+item {
+  id: 6
+  name: 'Vidrio'
+}
